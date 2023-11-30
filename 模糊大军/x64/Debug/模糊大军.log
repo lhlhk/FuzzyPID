@@ -1,0 +1,26 @@
+﻿  fuzzyPID.c
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(99,33): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(99,44): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(101,33): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(101,44): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(101,55): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(103,31): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(103,42): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(105,32): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(105,43): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(105,54): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(105,65): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(107,29): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(107,40): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(109,31): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(109,42): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(109,53): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(168,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(169,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(262,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(263,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(371,26): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(373,16): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(521,59): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊大军\模糊大军\fuzzyPID.c(526,59): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  模糊大军.vcxproj -> D:\c语言工程文件\模糊大军\x64\Debug\模糊大军.exe
